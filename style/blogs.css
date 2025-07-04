@@ -3,16 +3,20 @@ h1{
     background-image: url(images.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+     background-position: center;
+     height: 400px;
 }
 #bold{
-    height: 400px;
-    background-position: right;
+    height: 300px;
+    /* background-position: right; */
     background-image: url(photos/images\ \(2\).jpeg); 
     /* background-image:  url(photos/images\ \(3\).jpeg); */
-    /* background-repeat: no-repeat; */
-    background-repeat: repeat-x;
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
     font-size: 20px;
     color: rgb(160, 120, 68);
+    background-position: center;
+    background-size: cover;
 }
 span{
     color: rgb(210, 129, 0);
