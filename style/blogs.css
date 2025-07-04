@@ -1,0 +1,59 @@
+h1{
+    font-family: monospace;
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bold{
+    height: 400px;
+    background-position: right;
+    background-image: url(photos/images\ \(2\).jpeg); 
+    /* background-image:  url(photos/images\ \(3\).jpeg); */
+    /* background-repeat: no-repeat; */
+    background-repeat: repeat-x;
+    font-size: 20px;
+    color: rgb(160, 120, 68);
+}
+span{
+    color: rgb(210, 129, 0);
+   text-decoration: underline;
+    
+}
+p{
+    background-color: bisque;
+    color: rgb(207, 121, 7) ;
+    margin: 10px;
+    border: 20px;
+    padding: 10px;
+   box-shadow: indianred;
+  
+    }
+
+h2{
+  font-weight: 500px;
+  font-style: oblique;
+  color: rgb(171, 223, 223);
+  background-position: center;
+  background-color: rgb(6, 118, 118);
+}
+ul{
+   height: auto;
+   background-image: url(photos/images\ \(3\).jpeg);
+   background-repeat: no-repeat;
+   font-size: larger;
+   color: darkblue;
+
+}
+ol{
+    background-position: center;
+    background-color: brown;
+    color: blanchedalmond;
+}
+button{
+    color: rgb(215, 202, 169);
+    background-color: rgb(74, 44, 4);
+}
+input{
+    background-color: rgb(177, 180, 11);
+    color: azure;
+}
